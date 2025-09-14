@@ -1,6 +1,6 @@
 <!--
 **chaeyoonyunakim/chaeyoonyunakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h3 align="left"><b>My name is Yuna. Welcome to my page</b></h3><br>
+<h3 align="left"><b>My name is Chaeyoon. Welcome to my page</b></h3><br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
