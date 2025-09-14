@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         <img alt="freeCodeCamp" scr="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
 </div>
 -->
-<h1 align="left">Hi there, here is Yuna!👋</h1>
+<h1 align="left">Hi there, here is Chaeyoon!👋</h1>
 <p align="left">
     <i>
         🏦 I am a Data Scientist based in London, UK🇬🇧 with the National Health Service of England.<br>
