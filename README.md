@@ -19,18 +19,18 @@
     <br>
     <i>✨ Top skills:</i>
 
-[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/chaeyoonyunakim)
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/chaeyoonyunakim)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0071C5?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/chaeyoonyunakim)
-[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/chaeyoonyunakim)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/chaeyoonyunakim)
-[![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/chaeyoonyunakim)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/chaeyoonyunakim)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/chaeyoonakim)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/chaeyoonakim)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0071C5?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/chaeyoonakim)
+[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/chaeyoonakim)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/chaeyoonakim)
+[![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/chaeyoonakim)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/chaeyoonakim)
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/chaeyoonyunakim">
-    <img src="https://komarev.com/ghpvc/?username=chaeyoonyunakim&color=blue&style=flat" />
+  <a href="https://github.com/chaeyoonakim">
+    <img src="https://komarev.com/ghpvc/?username=chaeyoonakim&color=blue&style=flat" />
   </a>
 </p>
