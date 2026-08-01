@@ -9,10 +9,10 @@
         📫 How to reach me:
     </i>
     <div>
-    <a href="https://www.linkedin.com/in/chaeyoonyunakim" target="_blank">
+    <a href="https://www.linkedin.com/in/chaeyoonakim" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:chaeyoonyunakim@gmail.com" target="_blank">
+    <a href="mailto:chaeyoonakim@gmail.com" target="_blank">
         <img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     </div>
