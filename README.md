@@ -6,16 +6,12 @@
         💾 Previously 6.5 years in semiconductor engineering at Samsung Electronics 🇰🇷<br>
         🎓 BSc Electronic Engineering · MSc Data Science with Distinction — City St George's, University of London <br>
         🌱 Past community roles: LangChain Global Ambassador (2025–26) · UK–Korea Global Health Forum · Professional Mentor · PyCon UK volunteer<br>
-        🚀 Live apps: <a href="https://nhs-policy-navigator.vercel.app/">NHS Policy Navigator</a> · <a href="https://huggingface.co/spaces/chaeyoona/noteguard-agent">NoteGuard</a> · <a href="https://engine-ai-hackathon-frontend.vercel.app/">Endo Loop</a> · <a href="https://togethertodo.lovable.app/">Bilingual To-Do</a><br>
         ✍️ Portfolio, CV and writing: <a href="https://chaeyoonakim.github.io">chaeyoonakim.github.io</a><br><br>
         📫 How to reach me:
     </i>
     <div>
     <a href="https://www.linkedin.com/in/chaeyoonakim" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://chaeyoonakim.github.io" target="_blank">
-        <img alt="Website" src="https://img.shields.io/badge/website-chaeyoonakim.github.io-c9856a?style=for-the-badge&logo=githubpages&logoColor=white" />
     </a>
     <a href="mailto:chaeyoonakim@gmail.com" target="_blank">
         <img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
