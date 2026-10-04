@@ -4,7 +4,7 @@
         🤖 Data Scientist and Certified AI Ethicist with a passion for AI engineering, based in London 🇬🇧<br>
         🏥 About five years of data science in the UK National Health Service (NHS): healthcare workforce modelling · LLM applications<br>
         💾 Previously 6.5 years in semiconductor engineering at Samsung Electronics 🇰🇷<br>
-        🎓 BSc Electronic Engineering · MSc Data Science with Distinction — City St George's, University of London (2021)<br>
+        🎓 BSc Electronic Engineering · MSc Data Science with Distinction — City St George's, University of London <br>
         🌱 Past community roles: LangChain Global Ambassador (2025–26) · UK–Korea Global Health Forum · Professional Mentor · PyCon UK volunteer<br>
         🚀 Live apps: <a href="https://nhs-policy-navigator.vercel.app/">NHS Policy Navigator</a> · <a href="https://huggingface.co/spaces/chaeyoona/noteguard-agent">NoteGuard</a> · <a href="https://engine-ai-hackathon-frontend.vercel.app/">Endo Loop</a> · <a href="https://togethertodo.lovable.app/">Bilingual To-Do</a><br>
         ✍️ Portfolio, CV and writing: <a href="https://chaeyoonakim.github.io">chaeyoonakim.github.io</a><br><br>
