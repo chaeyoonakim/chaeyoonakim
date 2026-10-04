@@ -1,16 +1,21 @@
 <h1 align="left">Hi there, I'm Chaeyoon! 👋</h1>
 <p align="left">
     <i>
-        🏥 Data Scientist at NHS England, based in London 🇬🇧<br>
-        🤖 Certified AI Ethicist · healthcare workforce modelling · LLM applications<br>
-        💾 Previously an Engineer at Samsung Semiconductor 🇰🇷<br>
-        🎓 MSc Data Science with Distinction — City St George's, University of London (2021)<br>
-        🌱 LangChain Ambassador (2025) · open to new connections<br><br>
+        🤖 Data Scientist and Certified AI Ethicist with a passion for AI engineering, based in London 🇬🇧<br>
+        🏥 About five years of data science in the UK National Health Service (NHS): healthcare workforce modelling · LLM applications<br>
+        💾 Previously 6.5 years in semiconductor engineering at Samsung Electronics 🇰🇷<br>
+        🎓 BSc Electronic Engineering · MSc Data Science with Distinction — City St George's, University of London (2021)<br>
+        🌱 Past community roles: LangChain Global Ambassador (2025–26) · UK–Korea Global Health Forum · Professional Mentor · PyCon UK volunteer<br>
+        🚀 Live apps: <a href="https://nhs-policy-navigator.vercel.app/">NHS Policy Navigator</a> · <a href="https://huggingface.co/spaces/chaeyoona/noteguard-agent">NoteGuard</a> · <a href="https://engine-ai-hackathon-frontend.vercel.app/">Endo Loop</a> · <a href="https://togethertodo.lovable.app/">Bilingual To-Do</a><br>
+        ✍️ Portfolio, CV and writing: <a href="https://chaeyoonakim.github.io">chaeyoonakim.github.io</a><br><br>
         📫 How to reach me:
     </i>
     <div>
     <a href="https://www.linkedin.com/in/chaeyoonakim" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://chaeyoonakim.github.io" target="_blank">
+        <img alt="Website" src="https://img.shields.io/badge/website-chaeyoonakim.github.io-c9856a?style=for-the-badge&logo=githubpages&logoColor=white" />
     </a>
     <a href="mailto:chaeyoonakim@gmail.com" target="_blank">
         <img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -21,6 +26,8 @@
 
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/chaeyoonakim)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/chaeyoonakim)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/chaeyoonakim)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/chaeyoonakim)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0071C5?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/chaeyoonakim)
 [![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/chaeyoonakim)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/chaeyoonakim)
