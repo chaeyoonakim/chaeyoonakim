@@ -28,11 +28,14 @@
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/chaeyoonakim)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/chaeyoonakim)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/chaeyoonakim)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0071C5?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/chaeyoonakim)
-[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/chaeyoonakim)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/chaeyoonakim)
 [![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/chaeyoonakim)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/chaeyoonakim)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0071C5?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/chaeyoonakim)
+[![LLMs & RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/chaeyoonakim)
+[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/chaeyoonakim)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/chaeyoonakim)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/chaeyoonakim)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/chaeyoonakim)
 
 </p>
 
